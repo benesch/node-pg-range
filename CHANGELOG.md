@@ -1,3 +1,8 @@
+## 1.1.2 / 4 November 2022
+
+* Widen the `Endpoint` type in the typings to accept any primitive or object
+  with a valueOf method [#15]. Thanks, [@petercpwong]!
+
 ## 1.1.1 / 14 October 2021
 
 * Depend on stRange.js types [#14]. Thanks, [@bdbaraban]!
@@ -35,7 +40,9 @@
 
 [@bdbaraban]: https://github.com/bdbaraban
 [@cliedeman]: https://github.com/cliedeman
+[@petercpwong]: https://github.com/petercpwong
 [js-strange]: https://github.com/moll/js-strange
 [#7]: https://github.com/WhoopInc/node-pg-range/issues/7
 [#10]: https://github.com/WhoopInc/node-pg-range/issues/10
 [#14]: https://github.com/WhoopInc/node-pg-range/issues/14
+[#15]: https://github.com/WhoopInc/node-pg-range/pull/15
