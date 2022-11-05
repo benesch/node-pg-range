@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/WhoopInc/node-pg-range"
+    "url": "git://github.com/benesch/node-pg-range"
   },
   "files": [
     "lib",
@@ -26,12 +26,12 @@
     "tstzrange",
     "daterange"
   ],
-  "author": "Nikhil Benesch <benesch@whoop.com>",
+  "author": "Nikhil Benesch <nikhil.benesch@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/WhoopInc/node-pg-range/issues"
+    "url": "https://github.com/benesch/node-pg-range/issues"
   },
-  "homepage": "https://github.com/WhoopInc/node-pg-range",
+  "homepage": "https://github.com/benesch/node-pg-range",
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^5.2.0",

@@ -1,7 +1,7 @@
 # node-pg-range
 
-<a href="https://travis-ci.org/WhoopInc/node-pg-range">
-  <img src="https://travis-ci.org/WhoopInc/node-pg-range.svg?branch=master"
+<a href="https://travis-ci.org/benesch/node-pg-range">
+  <img src="https://travis-ci.org/benesch/node-pg-range.svg?branch=master"
     align="right">
 </a>
 
